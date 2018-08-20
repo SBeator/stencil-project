@@ -1,6 +1,8 @@
-# me-user-panel
+# stencil-project
 
-> User panel for Pair
+Stencil project
+
+Please start your work from this project
 
 ## Build Setup
 
